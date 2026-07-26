@@ -1,4 +1,4 @@
 #!/bin/sh
-dir=.xiphos
+dir=$HOME/.xiphos
 mkdir -p "$dir"
 cd "$dir"
